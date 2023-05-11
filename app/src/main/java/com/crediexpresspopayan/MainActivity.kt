@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     CrediexpressPopayanTheme {
-        Greeting("Android Dev")
+        Greeting("Android Dev vd")
     }
 }
